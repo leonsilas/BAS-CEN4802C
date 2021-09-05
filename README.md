@@ -5,3 +5,5 @@ Leon here, I love to code and learn about all aspects of software development th
 
 Here's what this repo is for:
 Contains all the files for my Software Int, Config, and Testing course.
+
+Proof that I resynced to main :D
