@@ -6,4 +6,12 @@ Leon here, I love to code and learn about all aspects of software development th
 Here's what this repo is for:
 Contains all the files for my Software Int, Config, and Testing course.
 
-Proof that I resynced to main :D
+`Proof that I resynced to main :D`
+
+---
+
+With more work now, we've been able to add some new features to our toolkit!
+- [x] JavaDoc 
+- [x] JUnit
+
+>Keep in mind, I'm running all of this on VSC compared to Eclipse, so your results may vary with the schema I'm using.

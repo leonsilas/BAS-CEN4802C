@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /** Represents a Fibonacci sequence.
  * @author Leon Silas
+ * @class CEN4802C, Software Integration, Configuration, and Testing
  * @author www.github.com/leonsilas
  * @version 1.0
 */
@@ -19,6 +20,7 @@ public class GitFibb {
 
         // Output
         System.out.println("The " + n + "th term of the Fibonacci sequence is " + fibb(n));
+        in.close();
 
     }// End of main
 
