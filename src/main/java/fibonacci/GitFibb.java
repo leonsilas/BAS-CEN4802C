@@ -1,4 +1,12 @@
+package fibonacci;
 import java.util.Scanner;
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpHandler;
+import com.sun.net.httpserver.HttpServer;
+
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.InetSocketAddress;
 
 /** Represents a Fibonacci sequence.
  * @author Leon Silas
@@ -12,17 +20,34 @@ public class GitFibb {
 	/** Main function.
 	 * @param args Command line arguments.
 	*/
-    public static void main(String args[]) {
-        // Setup
+    public static void main(String args[]) throws IOException {
+
+        HttpServer server = HttpServer.create(new InetSocketAddress(9988), 0);
+        server.createContext("/", new MyHandler());
+        server.setExecutor(null); // creates a default executor
+        server.start();
+
+        /*// Setup
         System.out.println("Please input the number of the term you'd like to find.");
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
 
         // Output
         System.out.println("The " + n + "th term of the Fibonacci sequence is " + fibb(n));
-        in.close();
+        in.close();*/
 
     }// End of main
+
+    static class MyHandler implements HttpHandler {
+        @Override
+        public void handle(HttpExchange t) throws IOException {
+            String response = "<h1> This is the 20th in the fibonacci sequence! " + fibb(20) + "</h1>";
+            t.sendResponseHeaders(200, response.length());
+            OutputStream os = t.getResponseBody();
+            os.write(response.getBytes());
+            os.close();
+        }
+    }
 
     /** Returns the nth term of the Fibonacci sequence.
 	 * @param n The term of the Fibonacci sequence to find.

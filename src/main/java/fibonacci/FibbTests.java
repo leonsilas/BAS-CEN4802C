@@ -1,3 +1,4 @@
+package fibonacci;
 import static org.junit.Assert.*;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
@@ -9,7 +10,7 @@ public class FibbTests {
     // Basic principles of testing
     @Test
     void testFail() {
-        assertEquals("We would feel sorry for you, but you should have seen this coming.",1, 1);
+        assertEquals("We would feel sorry for you, but you should have seen this coming.", 2, 1);
     }
 
     @Test

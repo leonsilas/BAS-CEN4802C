@@ -11,7 +11,12 @@ Contains all the files for my Software Int, Config, and Testing course.
 ---
 
 With more work now, we've been able to add some new features to our toolkit!
-- [x] JavaDoc 
+- [x] Code Development
+- [x] GitHub
 - [x] JUnit
+- [x] Maven
+- [] Jenkins
+- [x] Docker
+- [x] JavaDoc 
 
 >Keep in mind, I'm running all of this on VSC compared to Eclipse, so your results may vary with the schema I'm using.
