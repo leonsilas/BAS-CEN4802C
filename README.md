@@ -15,7 +15,7 @@ With more work now, we've been able to add some new features to our toolkit!
 - [x] GitHub
 - [x] JUnit
 - [x] Maven
-- [] Jenkins
+- [x] Jenkins
 - [x] Docker
 - [x] JavaDoc 
 
