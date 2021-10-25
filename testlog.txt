@@ -1,0 +1,400 @@
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 0 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 2 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 4 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 6 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 8 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 10 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 12 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 14 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 16 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 18 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 20 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 22 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 24 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 26 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 28 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 30 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 32 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 34 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 36 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 38 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 40 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 42 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 44 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 46 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 48 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 50 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 52 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 54 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 56 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 58 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 60 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 62 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 64 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 66 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 68 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 70 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 72 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 74 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 76 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 78 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 80 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 82 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 84 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 86 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 88 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 90 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 92 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 94 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 96 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 98 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 0 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 2 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 4 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 6 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 8 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 10 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 12 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 14 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 16 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 18 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 20 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 22 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 24 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 26 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 28 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 30 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 32 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 34 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 36 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 38 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 40 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 42 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 44 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 46 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 48 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 50 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 52 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 54 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 56 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 58 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 60 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 62 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 64 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 66 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 68 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 70 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 72 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 74 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 76 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 78 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 80 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 82 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 84 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 86 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 88 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 90 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 92 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 94 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+WARNING: 96 is divisible by 3.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+SEVERE: 98 can't do EITHER.
+Oct 24, 2021 9:08:55 PM fibonacci.LogTest log100
+FINE: This is working as intended.

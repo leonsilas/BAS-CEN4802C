@@ -18,5 +18,6 @@ With more work now, we've been able to add some new features to our toolkit!
 - [x] Jenkins
 - [x] Docker
 - [x] JavaDoc 
+- [x] Logging
 
 >Keep in mind, I'm running all of this on VSC compared to Eclipse, so your results may vary with the schema I'm using.

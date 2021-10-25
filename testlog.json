@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-25T01:08:55.332965200Z</date>
+  <millis>1635124135332</millis>
+  <nanos>965200</nanos>
+  <sequence>100</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>0 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.338967600Z</date>
+  <millis>1635124135338</millis>
+  <nanos>967600</nanos>
+  <sequence>101</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.339467Z</date>
+  <millis>1635124135339</millis>
+  <nanos>467000</nanos>
+  <sequence>102</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>2 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.339963800Z</date>
+  <millis>1635124135339</millis>
+  <nanos>963800</nanos>
+  <sequence>103</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.339963800Z</date>
+  <millis>1635124135339</millis>
+  <nanos>963800</nanos>
+  <sequence>104</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>4 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.340463800Z</date>
+  <millis>1635124135340</millis>
+  <nanos>463800</nanos>
+  <sequence>105</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.340965300Z</date>
+  <millis>1635124135340</millis>
+  <nanos>965300</nanos>
+  <sequence>106</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>6 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.340965300Z</date>
+  <millis>1635124135340</millis>
+  <nanos>965300</nanos>
+  <sequence>107</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.340965300Z</date>
+  <millis>1635124135340</millis>
+  <nanos>965300</nanos>
+  <sequence>108</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>8 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.341964500Z</date>
+  <millis>1635124135341</millis>
+  <nanos>964500</nanos>
+  <sequence>109</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.341964500Z</date>
+  <millis>1635124135341</millis>
+  <nanos>964500</nanos>
+  <sequence>110</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>10 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.342965300Z</date>
+  <millis>1635124135342</millis>
+  <nanos>965300</nanos>
+  <sequence>111</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.342965300Z</date>
+  <millis>1635124135342</millis>
+  <nanos>965300</nanos>
+  <sequence>112</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>12 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.342965300Z</date>
+  <millis>1635124135342</millis>
+  <nanos>965300</nanos>
+  <sequence>113</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.343465Z</date>
+  <millis>1635124135343</millis>
+  <nanos>465000</nanos>
+  <sequence>114</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>14 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.343964600Z</date>
+  <millis>1635124135343</millis>
+  <nanos>964600</nanos>
+  <sequence>115</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.344466800Z</date>
+  <millis>1635124135344</millis>
+  <nanos>466800</nanos>
+  <sequence>116</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>16 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.344964400Z</date>
+  <millis>1635124135344</millis>
+  <nanos>964400</nanos>
+  <sequence>117</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.344964400Z</date>
+  <millis>1635124135344</millis>
+  <nanos>964400</nanos>
+  <sequence>118</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>18 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.345466900Z</date>
+  <millis>1635124135345</millis>
+  <nanos>466900</nanos>
+  <sequence>119</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.345466900Z</date>
+  <millis>1635124135345</millis>
+  <nanos>466900</nanos>
+  <sequence>120</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>20 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.346467100Z</date>
+  <millis>1635124135346</millis>
+  <nanos>467100</nanos>
+  <sequence>121</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.346964600Z</date>
+  <millis>1635124135346</millis>
+  <nanos>964600</nanos>
+  <sequence>122</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>22 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.347963900Z</date>
+  <millis>1635124135347</millis>
+  <nanos>963900</nanos>
+  <sequence>123</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.347963900Z</date>
+  <millis>1635124135347</millis>
+  <nanos>963900</nanos>
+  <sequence>124</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>24 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.348464300Z</date>
+  <millis>1635124135348</millis>
+  <nanos>464300</nanos>
+  <sequence>125</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.348464300Z</date>
+  <millis>1635124135348</millis>
+  <nanos>464300</nanos>
+  <sequence>126</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>26 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.349464700Z</date>
+  <millis>1635124135349</millis>
+  <nanos>464700</nanos>
+  <sequence>127</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.349464700Z</date>
+  <millis>1635124135349</millis>
+  <nanos>464700</nanos>
+  <sequence>128</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>28 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.349964200Z</date>
+  <millis>1635124135349</millis>
+  <nanos>964200</nanos>
+  <sequence>129</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.350464400Z</date>
+  <millis>1635124135350</millis>
+  <nanos>464400</nanos>
+  <sequence>130</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>30 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.350464400Z</date>
+  <millis>1635124135350</millis>
+  <nanos>464400</nanos>
+  <sequence>131</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.350964900Z</date>
+  <millis>1635124135350</millis>
+  <nanos>964900</nanos>
+  <sequence>132</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>32 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.351464300Z</date>
+  <millis>1635124135351</millis>
+  <nanos>464300</nanos>
+  <sequence>133</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.351464300Z</date>
+  <millis>1635124135351</millis>
+  <nanos>464300</nanos>
+  <sequence>134</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>34 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.351964800Z</date>
+  <millis>1635124135351</millis>
+  <nanos>964800</nanos>
+  <sequence>135</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.352466Z</date>
+  <millis>1635124135352</millis>
+  <nanos>466000</nanos>
+  <sequence>136</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>36 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.352466Z</date>
+  <millis>1635124135352</millis>
+  <nanos>466000</nanos>
+  <sequence>137</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.352466Z</date>
+  <millis>1635124135352</millis>
+  <nanos>466000</nanos>
+  <sequence>138</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>38 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.352965100Z</date>
+  <millis>1635124135352</millis>
+  <nanos>965100</nanos>
+  <sequence>139</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.353464600Z</date>
+  <millis>1635124135353</millis>
+  <nanos>464600</nanos>
+  <sequence>140</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>40 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.353967200Z</date>
+  <millis>1635124135353</millis>
+  <nanos>967200</nanos>
+  <sequence>141</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.353967200Z</date>
+  <millis>1635124135353</millis>
+  <nanos>967200</nanos>
+  <sequence>142</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>42 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.354465Z</date>
+  <millis>1635124135354</millis>
+  <nanos>465000</nanos>
+  <sequence>143</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.354465Z</date>
+  <millis>1635124135354</millis>
+  <nanos>465000</nanos>
+  <sequence>144</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>44 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.354963800Z</date>
+  <millis>1635124135354</millis>
+  <nanos>963800</nanos>
+  <sequence>145</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.354963800Z</date>
+  <millis>1635124135354</millis>
+  <nanos>963800</nanos>
+  <sequence>146</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>46 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.355464400Z</date>
+  <millis>1635124135355</millis>
+  <nanos>464400</nanos>
+  <sequence>147</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.355963700Z</date>
+  <millis>1635124135355</millis>
+  <nanos>963700</nanos>
+  <sequence>148</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>48 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.355963700Z</date>
+  <millis>1635124135355</millis>
+  <nanos>963700</nanos>
+  <sequence>149</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.355963700Z</date>
+  <millis>1635124135355</millis>
+  <nanos>963700</nanos>
+  <sequence>150</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>50 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.356466Z</date>
+  <millis>1635124135356</millis>
+  <nanos>466000</nanos>
+  <sequence>151</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.356965200Z</date>
+  <millis>1635124135356</millis>
+  <nanos>965200</nanos>
+  <sequence>152</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>52 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.357467100Z</date>
+  <millis>1635124135357</millis>
+  <nanos>467100</nanos>
+  <sequence>153</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.357467100Z</date>
+  <millis>1635124135357</millis>
+  <nanos>467100</nanos>
+  <sequence>154</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>54 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.357963600Z</date>
+  <millis>1635124135357</millis>
+  <nanos>963600</nanos>
+  <sequence>155</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.357963600Z</date>
+  <millis>1635124135357</millis>
+  <nanos>963600</nanos>
+  <sequence>156</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>56 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.358464700Z</date>
+  <millis>1635124135358</millis>
+  <nanos>464700</nanos>
+  <sequence>157</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.358464700Z</date>
+  <millis>1635124135358</millis>
+  <nanos>464700</nanos>
+  <sequence>158</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>58 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.359464Z</date>
+  <millis>1635124135359</millis>
+  <nanos>464000</nanos>
+  <sequence>159</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.359464Z</date>
+  <millis>1635124135359</millis>
+  <nanos>464000</nanos>
+  <sequence>160</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>60 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.359964600Z</date>
+  <millis>1635124135359</millis>
+  <nanos>964600</nanos>
+  <sequence>161</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.359964600Z</date>
+  <millis>1635124135359</millis>
+  <nanos>964600</nanos>
+  <sequence>162</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>62 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.360464700Z</date>
+  <millis>1635124135360</millis>
+  <nanos>464700</nanos>
+  <sequence>163</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.360964200Z</date>
+  <millis>1635124135360</millis>
+  <nanos>964200</nanos>
+  <sequence>164</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>64 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.361464200Z</date>
+  <millis>1635124135361</millis>
+  <nanos>464200</nanos>
+  <sequence>165</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.361464200Z</date>
+  <millis>1635124135361</millis>
+  <nanos>464200</nanos>
+  <sequence>166</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>66 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.361965100Z</date>
+  <millis>1635124135361</millis>
+  <nanos>965100</nanos>
+  <sequence>167</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.362464700Z</date>
+  <millis>1635124135362</millis>
+  <nanos>464700</nanos>
+  <sequence>168</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>68 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.363465500Z</date>
+  <millis>1635124135363</millis>
+  <nanos>465500</nanos>
+  <sequence>169</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.363965900Z</date>
+  <millis>1635124135363</millis>
+  <nanos>965900</nanos>
+  <sequence>170</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>70 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.364466300Z</date>
+  <millis>1635124135364</millis>
+  <nanos>466300</nanos>
+  <sequence>171</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.364466300Z</date>
+  <millis>1635124135364</millis>
+  <nanos>466300</nanos>
+  <sequence>172</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>72 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.364965500Z</date>
+  <millis>1635124135364</millis>
+  <nanos>965500</nanos>
+  <sequence>173</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.364965500Z</date>
+  <millis>1635124135364</millis>
+  <nanos>965500</nanos>
+  <sequence>174</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>74 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.365964900Z</date>
+  <millis>1635124135365</millis>
+  <nanos>964900</nanos>
+  <sequence>175</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.366466100Z</date>
+  <millis>1635124135366</millis>
+  <nanos>466100</nanos>
+  <sequence>176</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>76 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.366965900Z</date>
+  <millis>1635124135366</millis>
+  <nanos>965900</nanos>
+  <sequence>177</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.366965900Z</date>
+  <millis>1635124135366</millis>
+  <nanos>965900</nanos>
+  <sequence>178</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>78 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.367464500Z</date>
+  <millis>1635124135367</millis>
+  <nanos>464500</nanos>
+  <sequence>179</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.367464500Z</date>
+  <millis>1635124135367</millis>
+  <nanos>464500</nanos>
+  <sequence>180</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>80 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.367964900Z</date>
+  <millis>1635124135367</millis>
+  <nanos>964900</nanos>
+  <sequence>181</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.368465200Z</date>
+  <millis>1635124135368</millis>
+  <nanos>465200</nanos>
+  <sequence>182</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>82 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.368964400Z</date>
+  <millis>1635124135368</millis>
+  <nanos>964400</nanos>
+  <sequence>183</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.369467900Z</date>
+  <millis>1635124135369</millis>
+  <nanos>467900</nanos>
+  <sequence>184</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>84 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.369467900Z</date>
+  <millis>1635124135369</millis>
+  <nanos>467900</nanos>
+  <sequence>185</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.369467900Z</date>
+  <millis>1635124135369</millis>
+  <nanos>467900</nanos>
+  <sequence>186</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>86 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.369965900Z</date>
+  <millis>1635124135369</millis>
+  <nanos>965900</nanos>
+  <sequence>187</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.370467600Z</date>
+  <millis>1635124135370</millis>
+  <nanos>467600</nanos>
+  <sequence>188</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>88 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.370965500Z</date>
+  <millis>1635124135370</millis>
+  <nanos>965500</nanos>
+  <sequence>189</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.370965500Z</date>
+  <millis>1635124135370</millis>
+  <nanos>965500</nanos>
+  <sequence>190</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>90 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.371466100Z</date>
+  <millis>1635124135371</millis>
+  <nanos>466100</nanos>
+  <sequence>191</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.371466100Z</date>
+  <millis>1635124135371</millis>
+  <nanos>466100</nanos>
+  <sequence>192</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>92 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.372465300Z</date>
+  <millis>1635124135372</millis>
+  <nanos>465300</nanos>
+  <sequence>193</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.372465300Z</date>
+  <millis>1635124135372</millis>
+  <nanos>465300</nanos>
+  <sequence>194</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>94 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.372966400Z</date>
+  <millis>1635124135372</millis>
+  <nanos>966400</nanos>
+  <sequence>195</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.372966400Z</date>
+  <millis>1635124135372</millis>
+  <nanos>966400</nanos>
+  <sequence>196</sequence>
+  <logger>global</logger>
+  <level>WARNING</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>96 is divisible by 3.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.373468500Z</date>
+  <millis>1635124135373</millis>
+  <nanos>468500</nanos>
+  <sequence>197</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.373468500Z</date>
+  <millis>1635124135373</millis>
+  <nanos>468500</nanos>
+  <sequence>198</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>98 can't do EITHER.</message>
+</record>
+<record>
+  <date>2021-10-25T01:08:55.373963800Z</date>
+  <millis>1635124135373</millis>
+  <nanos>963800</nanos>
+  <sequence>199</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>fibonacci.LogTest</class>
+  <method>log100</method>
+  <thread>1</thread>
+  <message>This is working as intended.</message>
+</record>
+</log>
